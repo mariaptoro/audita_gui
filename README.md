@@ -1,4 +1,16 @@
-# audita 1.0 — Audio segment validation tool
+<h1 align="center">audita</h1>
+
+<p align="center">
+  <img src="logo_audita_color.png"
+       alt="Logo de audita"
+       width="350">
+</p>
+
+<h3 align="center">
+  Audio segment validation tool
+</h3>
+
+---
 
 audita es una aplicación de escritorio para **escuchar, revisar y clasificar segmentos de audio** (WAV, WAVE, FLAC y OGG). Permite consultar el espectrograma, guardar validaciones y continuar un trabajo anterior.
 
